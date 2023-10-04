@@ -1,2 +1,6 @@
 face-alignment
+numpy
+opencv-python
 pykalman
+torch
+tqdm
